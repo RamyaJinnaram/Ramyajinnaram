@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 BTech CSE Cybersecurity Student
+* 🎓 Recent BTech Computer Science Engineering Graduate (Cybersecurity)
 * 🌱 Currently learning Python & Cybersecurity
 * 💡 Interested in SOC, Ethical Hacking and Digital Forensics
 * 🚀 Building beginner cybersecurity projects
